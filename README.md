@@ -11,6 +11,4 @@
 
 **4..Use Lifecycle methods (@BeforeAll, @BeforeEach, @AfterEach, @AfterAll),**
 
-**5.Run unit tests in any order you need: (Random, Order by Name, Order by Index),**
-
-**6.Disable Unit test**
+**5.Disable Unit test**
